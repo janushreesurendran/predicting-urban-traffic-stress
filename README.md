@@ -307,11 +307,8 @@ Interested in Data Analytics, Data Science, Machine Learning, and Business Intel
 
 ## 📸 Application Screenshots
 
-### Streamlit Application
-![App Interface](screenshots/app-interface.png)
+![App Interface](Images/app-interface.png)
 
-### Low Stress Prediction
-![Low Stress Prediction](screenshots/low-stress-prediction.png)
+![Low Stress Prediction](Images/low-stress-prediction.png)
 
-### High Stress Prediction
-![High Stress Prediction](screenshots/high-stress-prediction.png)
+![High Stress Prediction](Images/high-stress-prediction.png)

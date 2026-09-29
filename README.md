@@ -305,10 +305,17 @@ MSc Statistics | Data Science
 Interested in Data Analytics, Data Science, Machine Learning, and Business Intelligence.
 
 
+
 ## 📸 Application Screenshots
+
+### Streamlit Application
 
 ![App Interface](Images/app-interface.png)
 
+### Low Stress Prediction
+
 ![Low Stress Prediction](Images/low-stress-prediction.png)
+
+### High Stress Prediction
 
 ![High Stress Prediction](Images/high-stress-prediction.png)
